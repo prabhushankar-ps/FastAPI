@@ -100,5 +100,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 **Prabhu Shankar**  
-GitHub: [Your GitHub Profile](https://github.com/yourusername)  
-Email: [Your Email]  
+
